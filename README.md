@@ -60,3 +60,11 @@ Once the application is running, you can use the following commands:
 - `catch <pokemon_name>` - Attempt to catch a Pokemon (success is probability-based)
 - `inspect <pokemon_name>` - View detailed stats of a Pokemon in your collection
 - `pokedex` - List all Pokemon you have caught
+
+
+
+## Screenshot
+<img width="580" height="804" alt="image" src="https://github.com/user-attachments/assets/e49fccfc-a505-4de2-b011-0e73224d21ed" />
+<img width="372" height="381" alt="image" src="https://github.com/user-attachments/assets/dec02f04-ff68-4047-bbaa-4d254290e8bc" />
+
+
